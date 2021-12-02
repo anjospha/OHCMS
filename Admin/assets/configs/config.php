@@ -1,7 +1,7 @@
 <?php
 $dbuser="root";
 $dbpass="";
-$host="35.192.183.105";
+$host="10.122.32.3";
 $db="OHCMIS";
 $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 ?>
